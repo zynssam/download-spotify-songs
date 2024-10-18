@@ -1,7 +1,7 @@
 import commands.getspotify as getspotify 
 import commands.getytlinks as getlinks
 import commands.download as download
-import commands.linkgetter as linkgetter
+import commands.enterlink as enterlink
 
 folder_location = r'' #Your Folder Location
 def get_spotify_playlist_id(url):
